@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: ethan@gmail.com
+  home_phone_number: 0143000000
+  mobile_phone_number: 0613815691
+  firstname: Ethan
+  lastname: Gaidot
+  address: 1 rue de Marais
+
+two:
+  email: regis@partlab.co
+  home_phone_number: 0143000000
+  mobile_phone_number: 0613815691
+  firstname: Régis
+  lastname: Gaidot
+  address: 2 rue du Marais

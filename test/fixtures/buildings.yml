@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  address: 8 Rue La Boétie
+  zip_code: 75008
+  city: Paris
+  country: France
+  manager_name: Régis Gaidot
+
+two:
+  address: Avenue des Champs-Élysées
+  zip_code: 75008
+  city: Paris
+  country: France
+  manager_name: Régis Gaidot
